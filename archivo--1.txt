@@ -1,3 +1,7 @@
 uno
+<<<<<<< HEAD
 modificado en develop
 
+=======
+extradevelop
+>>>>>>> develop
